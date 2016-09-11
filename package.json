@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "babylon": "^6.3.0",
-    "react-templates": "git@github.com:BasilHealth/react-templates.git#e5b277b068dfac7a8e29e11c74bc5eaee466d892",
+    "react-templates": "git+https://github.com/BasilHealth/react-templates.git#75528ea4e348b9a9e9b161cbec663769a6a235bf",
     "react": "^15.3.0",
     "react-dom": "^15.3.0",
     "lodash": "^4.6.0",
